@@ -1,0 +1,2 @@
+*          # Ignore everything
+!images/** # Except the images folder
